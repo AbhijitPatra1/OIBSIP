@@ -1,0 +1,36 @@
+
+        table {
+            border: 1px solid rgba(12, 12, 12, 0.938);
+            margin-left: auto;
+            margin-right: auto;
+            border-radius: 15px;
+            background-color: rgb(56, 36, 228);
+
+        }
+
+        input[type="button"] {
+            width: 100%;
+            padding: 20px 40px;
+            background-color: rgb(22, 19, 19);
+            color: rgb(231, 20, 20);
+            font-size: 24px;
+            font-weight: bold;
+            border: none;
+            border-radius: 15px;
+        }
+
+        input[type="button"]:hover {
+            background-color: rgb(223, 220, 79);
+
+
+        }
+
+        input[type="text"] {
+            padding: 20px 30px;
+            font-size: 24px;
+            font-weight: bold;
+            border: none;
+            border-radius: 15px;
+            border: 2px solid rgb(136, 174, 230);
+
+        }
